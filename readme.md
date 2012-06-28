@@ -1,4 +1,4 @@
-Galaga
+tinygalaga
 ------
 
 This is a simple little Galaga clone that I wrote while I was taking a
